@@ -1,2 +1,2 @@
 # STDF-Parser
-Personal project to parse STDF file to text file
+Work project to parse STDF file to text file
